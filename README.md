@@ -1,2 +1,2 @@
 # NextJS_pro
-My first NextJS
+Semosa 's  NextJS
